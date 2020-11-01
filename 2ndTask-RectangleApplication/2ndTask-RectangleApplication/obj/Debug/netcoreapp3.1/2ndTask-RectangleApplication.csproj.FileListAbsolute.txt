@@ -1,0 +1,13 @@
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\2ndTask-RectangleApplication\2ndTask-RectangleApplication\obj\Debug\netcoreapp3.1\2ndTask-RectangleApplication.csprojAssemblyReference.cache
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\2ndTask-RectangleApplication\2ndTask-RectangleApplication\obj\Debug\netcoreapp3.1\2ndTask-RectangleApplication.AssemblyInfoInputs.cache
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\2ndTask-RectangleApplication\2ndTask-RectangleApplication\obj\Debug\netcoreapp3.1\2ndTask-RectangleApplication.AssemblyInfo.cs
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\2ndTask-RectangleApplication\2ndTask-RectangleApplication\obj\Debug\netcoreapp3.1\2ndTask-RectangleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\2ndTask-RectangleApplication\2ndTask-RectangleApplication\bin\Debug\netcoreapp3.1\2ndTask-RectangleApplication.exe
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\2ndTask-RectangleApplication\2ndTask-RectangleApplication\bin\Debug\netcoreapp3.1\2ndTask-RectangleApplication.deps.json
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\2ndTask-RectangleApplication\2ndTask-RectangleApplication\bin\Debug\netcoreapp3.1\2ndTask-RectangleApplication.runtimeconfig.json
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\2ndTask-RectangleApplication\2ndTask-RectangleApplication\bin\Debug\netcoreapp3.1\2ndTask-RectangleApplication.runtimeconfig.dev.json
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\2ndTask-RectangleApplication\2ndTask-RectangleApplication\bin\Debug\netcoreapp3.1\2ndTask-RectangleApplication.dll
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\2ndTask-RectangleApplication\2ndTask-RectangleApplication\bin\Debug\netcoreapp3.1\2ndTask-RectangleApplication.pdb
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\2ndTask-RectangleApplication\2ndTask-RectangleApplication\obj\Debug\netcoreapp3.1\2ndTask-RectangleApplication.dll
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\2ndTask-RectangleApplication\2ndTask-RectangleApplication\obj\Debug\netcoreapp3.1\2ndTask-RectangleApplication.pdb
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\2ndTask-RectangleApplication\2ndTask-RectangleApplication\obj\Debug\netcoreapp3.1\2ndTask-RectangleApplication.genruntimeconfig.cache

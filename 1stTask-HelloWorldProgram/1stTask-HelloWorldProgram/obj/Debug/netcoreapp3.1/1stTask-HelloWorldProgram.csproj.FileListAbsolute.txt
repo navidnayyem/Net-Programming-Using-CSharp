@@ -1,0 +1,13 @@
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\1stTask-HelloWorldProgram\1stTask-HelloWorldProgram\bin\Debug\netcoreapp3.1\1stTask-HelloWorldProgram.exe
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\1stTask-HelloWorldProgram\1stTask-HelloWorldProgram\bin\Debug\netcoreapp3.1\1stTask-HelloWorldProgram.deps.json
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\1stTask-HelloWorldProgram\1stTask-HelloWorldProgram\bin\Debug\netcoreapp3.1\1stTask-HelloWorldProgram.runtimeconfig.json
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\1stTask-HelloWorldProgram\1stTask-HelloWorldProgram\bin\Debug\netcoreapp3.1\1stTask-HelloWorldProgram.runtimeconfig.dev.json
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\1stTask-HelloWorldProgram\1stTask-HelloWorldProgram\bin\Debug\netcoreapp3.1\1stTask-HelloWorldProgram.dll
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\1stTask-HelloWorldProgram\1stTask-HelloWorldProgram\bin\Debug\netcoreapp3.1\1stTask-HelloWorldProgram.pdb
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\1stTask-HelloWorldProgram\1stTask-HelloWorldProgram\obj\Debug\netcoreapp3.1\1stTask-HelloWorldProgram.csprojAssemblyReference.cache
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\1stTask-HelloWorldProgram\1stTask-HelloWorldProgram\obj\Debug\netcoreapp3.1\1stTask-HelloWorldProgram.AssemblyInfoInputs.cache
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\1stTask-HelloWorldProgram\1stTask-HelloWorldProgram\obj\Debug\netcoreapp3.1\1stTask-HelloWorldProgram.AssemblyInfo.cs
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\1stTask-HelloWorldProgram\1stTask-HelloWorldProgram\obj\Debug\netcoreapp3.1\1stTask-HelloWorldProgram.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\1stTask-HelloWorldProgram\1stTask-HelloWorldProgram\obj\Debug\netcoreapp3.1\1stTask-HelloWorldProgram.dll
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\1stTask-HelloWorldProgram\1stTask-HelloWorldProgram\obj\Debug\netcoreapp3.1\1stTask-HelloWorldProgram.pdb
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\1stTask-HelloWorldProgram\1stTask-HelloWorldProgram\obj\Debug\netcoreapp3.1\1stTask-HelloWorldProgram.genruntimeconfig.cache
