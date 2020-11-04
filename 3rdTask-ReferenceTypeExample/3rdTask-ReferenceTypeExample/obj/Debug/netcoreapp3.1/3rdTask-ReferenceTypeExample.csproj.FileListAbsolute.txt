@@ -1,0 +1,13 @@
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\3rdTask-ReferenceTypeExample\3rdTask-ReferenceTypeExample\bin\Debug\netcoreapp3.1\3rdTask-ReferenceTypeExample.exe
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\3rdTask-ReferenceTypeExample\3rdTask-ReferenceTypeExample\bin\Debug\netcoreapp3.1\3rdTask-ReferenceTypeExample.deps.json
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\3rdTask-ReferenceTypeExample\3rdTask-ReferenceTypeExample\bin\Debug\netcoreapp3.1\3rdTask-ReferenceTypeExample.runtimeconfig.json
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\3rdTask-ReferenceTypeExample\3rdTask-ReferenceTypeExample\bin\Debug\netcoreapp3.1\3rdTask-ReferenceTypeExample.runtimeconfig.dev.json
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\3rdTask-ReferenceTypeExample\3rdTask-ReferenceTypeExample\bin\Debug\netcoreapp3.1\3rdTask-ReferenceTypeExample.dll
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\3rdTask-ReferenceTypeExample\3rdTask-ReferenceTypeExample\bin\Debug\netcoreapp3.1\3rdTask-ReferenceTypeExample.pdb
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\3rdTask-ReferenceTypeExample\3rdTask-ReferenceTypeExample\obj\Debug\netcoreapp3.1\3rdTask-ReferenceTypeExample.csprojAssemblyReference.cache
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\3rdTask-ReferenceTypeExample\3rdTask-ReferenceTypeExample\obj\Debug\netcoreapp3.1\3rdTask-ReferenceTypeExample.AssemblyInfoInputs.cache
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\3rdTask-ReferenceTypeExample\3rdTask-ReferenceTypeExample\obj\Debug\netcoreapp3.1\3rdTask-ReferenceTypeExample.AssemblyInfo.cs
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\3rdTask-ReferenceTypeExample\3rdTask-ReferenceTypeExample\obj\Debug\netcoreapp3.1\3rdTask-ReferenceTypeExample.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\3rdTask-ReferenceTypeExample\3rdTask-ReferenceTypeExample\obj\Debug\netcoreapp3.1\3rdTask-ReferenceTypeExample.dll
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\3rdTask-ReferenceTypeExample\3rdTask-ReferenceTypeExample\obj\Debug\netcoreapp3.1\3rdTask-ReferenceTypeExample.pdb
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\3rdTask-ReferenceTypeExample\3rdTask-ReferenceTypeExample\obj\Debug\netcoreapp3.1\3rdTask-ReferenceTypeExample.genruntimeconfig.cache

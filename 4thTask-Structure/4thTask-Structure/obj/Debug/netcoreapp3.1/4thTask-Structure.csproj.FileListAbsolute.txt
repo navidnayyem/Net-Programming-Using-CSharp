@@ -1,0 +1,13 @@
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\4thTask-Structure\4thTask-Structure\bin\Debug\netcoreapp3.1\4thTask-Structure.exe
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\4thTask-Structure\4thTask-Structure\bin\Debug\netcoreapp3.1\4thTask-Structure.deps.json
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\4thTask-Structure\4thTask-Structure\bin\Debug\netcoreapp3.1\4thTask-Structure.runtimeconfig.json
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\4thTask-Structure\4thTask-Structure\bin\Debug\netcoreapp3.1\4thTask-Structure.runtimeconfig.dev.json
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\4thTask-Structure\4thTask-Structure\bin\Debug\netcoreapp3.1\4thTask-Structure.dll
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\4thTask-Structure\4thTask-Structure\bin\Debug\netcoreapp3.1\4thTask-Structure.pdb
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\4thTask-Structure\4thTask-Structure\obj\Debug\netcoreapp3.1\4thTask-Structure.csprojAssemblyReference.cache
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\4thTask-Structure\4thTask-Structure\obj\Debug\netcoreapp3.1\4thTask-Structure.AssemblyInfoInputs.cache
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\4thTask-Structure\4thTask-Structure\obj\Debug\netcoreapp3.1\4thTask-Structure.AssemblyInfo.cs
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\4thTask-Structure\4thTask-Structure\obj\Debug\netcoreapp3.1\4thTask-Structure.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\4thTask-Structure\4thTask-Structure\obj\Debug\netcoreapp3.1\4thTask-Structure.dll
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\4thTask-Structure\4thTask-Structure\obj\Debug\netcoreapp3.1\4thTask-Structure.pdb
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\4thTask-Structure\4thTask-Structure\obj\Debug\netcoreapp3.1\4thTask-Structure.genruntimeconfig.cache
