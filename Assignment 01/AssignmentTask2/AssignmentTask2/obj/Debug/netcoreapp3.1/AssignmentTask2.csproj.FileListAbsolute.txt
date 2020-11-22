@@ -1,0 +1,13 @@
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\AssignmentTask2\AssignmentTask2\bin\Debug\netcoreapp3.1\AssignmentTask2.exe
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\AssignmentTask2\AssignmentTask2\bin\Debug\netcoreapp3.1\AssignmentTask2.deps.json
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\AssignmentTask2\AssignmentTask2\bin\Debug\netcoreapp3.1\AssignmentTask2.runtimeconfig.json
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\AssignmentTask2\AssignmentTask2\bin\Debug\netcoreapp3.1\AssignmentTask2.runtimeconfig.dev.json
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\AssignmentTask2\AssignmentTask2\bin\Debug\netcoreapp3.1\AssignmentTask2.dll
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\AssignmentTask2\AssignmentTask2\bin\Debug\netcoreapp3.1\AssignmentTask2.pdb
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\AssignmentTask2\AssignmentTask2\obj\Debug\netcoreapp3.1\AssignmentTask2.csprojAssemblyReference.cache
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\AssignmentTask2\AssignmentTask2\obj\Debug\netcoreapp3.1\AssignmentTask2.AssemblyInfoInputs.cache
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\AssignmentTask2\AssignmentTask2\obj\Debug\netcoreapp3.1\AssignmentTask2.AssemblyInfo.cs
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\AssignmentTask2\AssignmentTask2\obj\Debug\netcoreapp3.1\AssignmentTask2.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\AssignmentTask2\AssignmentTask2\obj\Debug\netcoreapp3.1\AssignmentTask2.dll
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\AssignmentTask2\AssignmentTask2\obj\Debug\netcoreapp3.1\AssignmentTask2.pdb
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\AssignmentTask2\AssignmentTask2\obj\Debug\netcoreapp3.1\AssignmentTask2.genruntimeconfig.cache
