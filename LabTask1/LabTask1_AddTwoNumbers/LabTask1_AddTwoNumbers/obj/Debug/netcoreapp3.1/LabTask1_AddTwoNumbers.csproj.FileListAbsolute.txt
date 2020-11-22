@@ -1,0 +1,13 @@
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\LabTask1_AddTwoNumbers\LabTask1_AddTwoNumbers\bin\Debug\netcoreapp3.1\LabTask1_AddTwoNumbers.exe
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\LabTask1_AddTwoNumbers\LabTask1_AddTwoNumbers\bin\Debug\netcoreapp3.1\LabTask1_AddTwoNumbers.deps.json
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\LabTask1_AddTwoNumbers\LabTask1_AddTwoNumbers\bin\Debug\netcoreapp3.1\LabTask1_AddTwoNumbers.runtimeconfig.json
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\LabTask1_AddTwoNumbers\LabTask1_AddTwoNumbers\bin\Debug\netcoreapp3.1\LabTask1_AddTwoNumbers.runtimeconfig.dev.json
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\LabTask1_AddTwoNumbers\LabTask1_AddTwoNumbers\bin\Debug\netcoreapp3.1\LabTask1_AddTwoNumbers.dll
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\LabTask1_AddTwoNumbers\LabTask1_AddTwoNumbers\bin\Debug\netcoreapp3.1\LabTask1_AddTwoNumbers.pdb
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\LabTask1_AddTwoNumbers\LabTask1_AddTwoNumbers\obj\Debug\netcoreapp3.1\LabTask1_AddTwoNumbers.csprojAssemblyReference.cache
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\LabTask1_AddTwoNumbers\LabTask1_AddTwoNumbers\obj\Debug\netcoreapp3.1\LabTask1_AddTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\LabTask1_AddTwoNumbers\LabTask1_AddTwoNumbers\obj\Debug\netcoreapp3.1\LabTask1_AddTwoNumbers.AssemblyInfo.cs
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\LabTask1_AddTwoNumbers\LabTask1_AddTwoNumbers\obj\Debug\netcoreapp3.1\LabTask1_AddTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\LabTask1_AddTwoNumbers\LabTask1_AddTwoNumbers\obj\Debug\netcoreapp3.1\LabTask1_AddTwoNumbers.dll
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\LabTask1_AddTwoNumbers\LabTask1_AddTwoNumbers\obj\Debug\netcoreapp3.1\LabTask1_AddTwoNumbers.pdb
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\LabTask1_AddTwoNumbers\LabTask1_AddTwoNumbers\obj\Debug\netcoreapp3.1\LabTask1_AddTwoNumbers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\LabTask1_Calculator\LabTask1_Calculator\bin\Debug\netcoreapp3.1\LabTask1_Calculator.exe
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\LabTask1_Calculator\LabTask1_Calculator\bin\Debug\netcoreapp3.1\LabTask1_Calculator.deps.json
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\LabTask1_Calculator\LabTask1_Calculator\bin\Debug\netcoreapp3.1\LabTask1_Calculator.runtimeconfig.json
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\LabTask1_Calculator\LabTask1_Calculator\bin\Debug\netcoreapp3.1\LabTask1_Calculator.runtimeconfig.dev.json
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\LabTask1_Calculator\LabTask1_Calculator\bin\Debug\netcoreapp3.1\LabTask1_Calculator.dll
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\LabTask1_Calculator\LabTask1_Calculator\bin\Debug\netcoreapp3.1\LabTask1_Calculator.pdb
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\LabTask1_Calculator\LabTask1_Calculator\obj\Debug\netcoreapp3.1\LabTask1_Calculator.csprojAssemblyReference.cache
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\LabTask1_Calculator\LabTask1_Calculator\obj\Debug\netcoreapp3.1\LabTask1_Calculator.AssemblyInfoInputs.cache
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\LabTask1_Calculator\LabTask1_Calculator\obj\Debug\netcoreapp3.1\LabTask1_Calculator.AssemblyInfo.cs
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\LabTask1_Calculator\LabTask1_Calculator\obj\Debug\netcoreapp3.1\LabTask1_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\LabTask1_Calculator\LabTask1_Calculator\obj\Debug\netcoreapp3.1\LabTask1_Calculator.dll
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\LabTask1_Calculator\LabTask1_Calculator\obj\Debug\netcoreapp3.1\LabTask1_Calculator.pdb
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\LabTask1_Calculator\LabTask1_Calculator\obj\Debug\netcoreapp3.1\LabTask1_Calculator.genruntimeconfig.cache
