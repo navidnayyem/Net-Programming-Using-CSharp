@@ -1,0 +1,4 @@
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\MidTerm\MidTerm\obj\Debug\netcoreapp3.1\MidTerm.csprojAssemblyReference.cache
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\MidTerm\MidTerm\obj\Debug\netcoreapp3.1\MidTerm.AssemblyInfoInputs.cache
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\MidTerm\MidTerm\obj\Debug\netcoreapp3.1\MidTerm.AssemblyInfo.cs
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\MidTerm\MidTerm\obj\Debug\netcoreapp3.1\MidTerm.csproj.CoreCompileInputs.cache
