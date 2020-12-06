@@ -1,0 +1,7 @@
+G:\C Sharp\My Class\C 1\Code\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+G:\C Sharp\My Class\C 1\Code\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+G:\C Sharp\My Class\C 1\Code\HelloWorld\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+G:\C Sharp\My Class\C 1\Code\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+G:\C Sharp\My Class\C 1\Code\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+G:\C Sharp\My Class\C 1\C1 Code\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+G:\C Sharp\My Class\C 1\C1 Code\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

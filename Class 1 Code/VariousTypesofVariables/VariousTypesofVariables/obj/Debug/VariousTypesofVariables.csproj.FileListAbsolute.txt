@@ -1,0 +1,12 @@
+G:\C Sharp\My Class\C 1\Code\VariousTypesofVariables\VariousTypesofVariables\bin\Debug\VariousTypesofVariables.exe
+G:\C Sharp\My Class\C 1\Code\VariousTypesofVariables\VariousTypesofVariables\bin\Debug\VariousTypesofVariables.pdb
+G:\C Sharp\My Class\C 1\Code\VariousTypesofVariables\VariousTypesofVariables\obj\Debug\ResolveAssemblyReference.cache
+G:\C Sharp\My Class\C 1\Code\VariousTypesofVariables\VariousTypesofVariables\obj\Debug\VariousTypesofVariables.exe
+G:\C Sharp\My Class\C 1\Code\VariousTypesofVariables\VariousTypesofVariables\obj\Debug\VariousTypesofVariables.pdb
+G:\C Sharp\My Class\C 1\C1 Code\VariousTypesofVariables\VariousTypesofVariables\obj\Debug\VariousTypesofVariables.exe
+G:\C Sharp\My Class\C 1\C1 Code\VariousTypesofVariables\VariousTypesofVariables\obj\Debug\VariousTypesofVariables.pdb
+J:\OOP2 My Class\Mid\C1\C1 Code\VariousTypesofVariables\VariousTypesofVariables\obj\Debug\VariousTypesofVariables.exe
+J:\OOP2 My Class\Mid\C1\C1 Code\VariousTypesofVariables\VariousTypesofVariables\obj\Debug\VariousTypesofVariables.pdb
+J:\OOP2 My Class\Mid\C1\C1 Code\VariousTypesofVariables\VariousTypesofVariables\obj\Debug\ResolveAssemblyReference.cache
+J:\OOP2 My Class\Mid\C1\C1 Code\VariousTypesofVariables\VariousTypesofVariables\bin\Debug\VariousTypesofVariables.exe
+J:\OOP2 My Class\Mid\C1\C1 Code\VariousTypesofVariables\VariousTypesofVariables\bin\Debug\VariousTypesofVariables.pdb

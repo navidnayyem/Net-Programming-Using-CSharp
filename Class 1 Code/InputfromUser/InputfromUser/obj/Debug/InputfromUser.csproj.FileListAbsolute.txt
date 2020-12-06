@@ -1,0 +1,12 @@
+G:\C Sharp\My Class\C 1\Code\InputfromUser\InputfromUser\bin\Debug\InputfromUser.exe
+G:\C Sharp\My Class\C 1\Code\InputfromUser\InputfromUser\bin\Debug\InputfromUser.pdb
+G:\C Sharp\My Class\C 1\Code\InputfromUser\InputfromUser\obj\Debug\ResolveAssemblyReference.cache
+G:\C Sharp\My Class\C 1\Code\InputfromUser\InputfromUser\obj\Debug\InputfromUser.exe
+G:\C Sharp\My Class\C 1\Code\InputfromUser\InputfromUser\obj\Debug\InputfromUser.pdb
+G:\C Sharp\My Class\C 1\C1 Code\InputfromUser\InputfromUser\obj\Debug\InputfromUser.exe
+G:\C Sharp\My Class\C 1\C1 Code\InputfromUser\InputfromUser\obj\Debug\InputfromUser.pdb
+J:\OOP2 My Class\Mid\C1\C1 Code\InputfromUser\InputfromUser\obj\Debug\ResolveAssemblyReference.cache
+J:\OOP2 My Class\Mid\C1\C1 Code\InputfromUser\InputfromUser\obj\Debug\InputfromUser.exe
+J:\OOP2 My Class\Mid\C1\C1 Code\InputfromUser\InputfromUser\bin\Debug\InputfromUser.exe
+J:\OOP2 My Class\Mid\C1\C1 Code\InputfromUser\InputfromUser\bin\Debug\InputfromUser.pdb
+J:\OOP2 My Class\Mid\C1\C1 Code\InputfromUser\InputfromUser\obj\Debug\InputfromUser.pdb
