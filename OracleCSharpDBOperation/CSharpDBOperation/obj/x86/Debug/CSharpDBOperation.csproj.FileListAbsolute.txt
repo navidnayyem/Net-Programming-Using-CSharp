@@ -1,0 +1,27 @@
+H:\C# Course\Final\Done\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\bin\x86\Debug\CSharpDBOperation.exe
+H:\C# Course\Final\Done\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\bin\x86\Debug\CSharpDBOperation.pdb
+H:\C# Course\Final\Done\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\obj\x86\Debug\CSharpDBOperation.DbFeatures.resources
+H:\C# Course\Final\Done\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\obj\x86\Debug\CSharpDBOperation.DeleteStudentInfo.resources
+H:\C# Course\Final\Done\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\obj\x86\Debug\CSharpDBOperation.Form1.resources
+H:\C# Course\Final\Done\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\obj\x86\Debug\CSharpDBOperation.InsertData.resources
+H:\C# Course\Final\Done\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\obj\x86\Debug\CSharpDBOperation.Properties.Resources.resources
+H:\C# Course\Final\Done\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\obj\x86\Debug\CSharpDBOperation.UpdateStudentData.resources
+H:\C# Course\Final\Done\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\obj\x86\Debug\CSharpDBOperation.ViewAllStudentData.resources
+H:\C# Course\Final\Done\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\obj\x86\Debug\CSharpDBOperation.csproj.GenerateResource.Cache
+H:\C# Course\Final\Done\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\obj\x86\Debug\CSharpDBOperation.exe
+H:\C# Course\Final\Done\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\obj\x86\Debug\CSharpDBOperation.pdb
+C:\Users\Faculty\Desktop\OracleCSharpDBOperation\CSharpDBOperation\obj\x86\Debug\CSharpDBOperation.exe
+C:\Users\Faculty\Desktop\OracleCSharpDBOperation\CSharpDBOperation\obj\x86\Debug\CSharpDBOperation.pdb
+D:\ULAB Fall 2020\CSE 416\.NET C# Programming\Final\Class 5 Database Operation\OracleCSharpDBOperation\CSharpDBOperation\obj\x86\Debug\CSharpDBOperation.exe
+D:\ULAB Fall 2020\CSE 416\.NET C# Programming\Final\Class 5 Database Operation\OracleCSharpDBOperation\CSharpDBOperation\obj\x86\Debug\CSharpDBOperation.pdb
+D:\ULAB Fall 2020\CSE 416\.NET C# Programming\Final\Class 5 Database Operation\OracleCSharpDBOperation\CSharpDBOperation\bin\x86\Debug\CSharpDBOperation.exe
+D:\ULAB Fall 2020\CSE 416\.NET C# Programming\Final\Class 5 Database Operation\OracleCSharpDBOperation\CSharpDBOperation\bin\x86\Debug\CSharpDBOperation.pdb
+D:\ULAB Fall 2020\CSE 416\.NET C# Programming\Final\Class 5 Database Operation\OracleCSharpDBOperation\CSharpDBOperation\obj\x86\Debug\CSharpDBOperation.csprojResolveAssemblyReference.cache
+D:\ULAB Fall 2020\CSE 416\.NET C# Programming\Final\Class 5 Database Operation\OracleCSharpDBOperation\CSharpDBOperation\obj\x86\Debug\CSharpDBOperation.DbFeatures.resources
+D:\ULAB Fall 2020\CSE 416\.NET C# Programming\Final\Class 5 Database Operation\OracleCSharpDBOperation\CSharpDBOperation\obj\x86\Debug\CSharpDBOperation.DeleteStudentInfo.resources
+D:\ULAB Fall 2020\CSE 416\.NET C# Programming\Final\Class 5 Database Operation\OracleCSharpDBOperation\CSharpDBOperation\obj\x86\Debug\CSharpDBOperation.Form1.resources
+D:\ULAB Fall 2020\CSE 416\.NET C# Programming\Final\Class 5 Database Operation\OracleCSharpDBOperation\CSharpDBOperation\obj\x86\Debug\CSharpDBOperation.InsertData.resources
+D:\ULAB Fall 2020\CSE 416\.NET C# Programming\Final\Class 5 Database Operation\OracleCSharpDBOperation\CSharpDBOperation\obj\x86\Debug\CSharpDBOperation.Properties.Resources.resources
+D:\ULAB Fall 2020\CSE 416\.NET C# Programming\Final\Class 5 Database Operation\OracleCSharpDBOperation\CSharpDBOperation\obj\x86\Debug\CSharpDBOperation.UpdateStudentData.resources
+D:\ULAB Fall 2020\CSE 416\.NET C# Programming\Final\Class 5 Database Operation\OracleCSharpDBOperation\CSharpDBOperation\obj\x86\Debug\CSharpDBOperation.ViewAllStudentData.resources
+D:\ULAB Fall 2020\CSE 416\.NET C# Programming\Final\Class 5 Database Operation\OracleCSharpDBOperation\CSharpDBOperation\obj\x86\Debug\CSharpDBOperation.csproj.GenerateResource.Cache
